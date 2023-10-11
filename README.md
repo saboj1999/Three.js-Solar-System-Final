@@ -2,7 +2,7 @@
 * First -> Download Node.js
 * Second -> Inside of a Folder run the command:
 npm install
-* Third -> Inside of the Foler run the command:
+* Third -> Inside of the Folder run the command:
 npm run dev
 
 ## Plotting
